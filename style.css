@@ -1,0 +1,29 @@
+#buttan{
+    color: black;
+    background-color: white;
+    width: 350px;
+  height: 55px;
+  border-radius: 10px;
+
+}
+
+body
+{
+  color: white;
+  background: black;
+}
+
+#camera , #result
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+
+#sideleft, #sideright{
+    color: black;
+    background-color: white;
+    border-radius: 7px;
+    height: 25px;
+    width: 150px;
+}
